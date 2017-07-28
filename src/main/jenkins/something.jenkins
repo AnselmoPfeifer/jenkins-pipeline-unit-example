@@ -1,7 +1,0 @@
-def execute() {
-    node() {
-        echo 'hello from something'
-    }
-}
-
-return this

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.lesfurets</groupId>
+  <groupId>com.anselmopfeifer</groupId>
   <artifactId>jenkins-pipeline-unit-example</artifactId>
   <name>JenkinsPipelineUnit Example Project</name>
   <version>0.12</version>
